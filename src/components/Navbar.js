@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="h-[50px] w-full  bg-circles rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-20 border border-g sticky top-0 ">
       <div className="flex justify-between">
         <div className="flex justify-start  items-center ml-6">
-          <div className="text-w leading-7 font-bold text-[20px]">hamza-</div>
+          <div className="text-w leading-7 font-bold text-[20px]">Aissa-</div>
           <div className="text-secondary font-black text-[20px] leading-7">
             banking
           </div>
